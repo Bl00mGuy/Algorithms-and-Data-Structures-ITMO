@@ -30,6 +30,8 @@
 
 #### [🤣 Contest №14](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/tree/main/Contest_14)
 
+#
+
 ## Colloquiums
 
 #### [🤣 Colloquium №1](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/tree/main/Colloquium_1)
@@ -39,3 +41,7 @@
 #### [🤣 Colloquium №3](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/tree/main/Colloquium_3)
 
 #### [🤣 Colloquium №4](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/tree/main/Colloquium_4)
+
+#
+
+![image](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/assets/94011547/8d294e39-c80d-4219-8995-ccca96585db0)
