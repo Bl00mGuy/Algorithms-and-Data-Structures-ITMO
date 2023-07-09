@@ -1,5 +1,9 @@
 # 📈 Algorithms-and-Data-Structures-ITMO 📉
 
+![1](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/assets/94011547/4785ff7a-543e-4c4a-973c-95bfcb46e3ba)
+
+![2](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/assets/94011547/4355a5e5-50bf-429c-a3c3-640e1a4d68ac)
+
 ## Contests
 
 #### [🤣 Contest №1](https://github.com/Telecaster525/Algorithms-and-Data-Structures-ITMO/tree/main/Contest_1)
